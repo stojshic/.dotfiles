@@ -1,0 +1,973 @@
+Feb 28 10:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 10:04 : exception: Failed to open '/home/stojshic/.config/mpd/state': No such file or directory
+Feb 28 10:04 : update: added /Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus
+Feb 28 10:04 : client: [0] opened from 127.0.0.1:59960
+Feb 28 10:05 : client: [0] closed
+Feb 28 10:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 10:05 : client: [0] opened from 127.0.0.1:56804
+Feb 28 10:05 : client: [1] opened from 127.0.0.1:56808
+Feb 28 10:05 : client: [1] closed
+Feb 28 10:05 : client: [2] opened from 127.0.0.1:56812
+Feb 28 10:05 : client: [2] closed
+Feb 28 10:05 : client: [3] opened from 127.0.0.1:56816
+Feb 28 10:05 : client: [3] closed
+Feb 28 10:06 : client: [4] opened from 127.0.0.1:56820
+Feb 28 10:06 : client: [4] closed
+Feb 28 10:06 : client: [5] opened from 127.0.0.1:56824
+Feb 28 10:06 : client: [5] closed
+Feb 28 10:06 : client: [6] opened from 127.0.0.1:56828
+Feb 28 10:06 : client: [6] closed
+Feb 28 10:06 : client: [7] opened from 127.0.0.1:56832
+Feb 28 10:06 : client: [7] closed
+Feb 28 10:07 : client: [8] opened from 127.0.0.1:56836
+Feb 28 10:07 : client: [8] closed
+Feb 28 10:07 : client: [9] opened from 127.0.0.1:56840
+Feb 28 10:07 : client: [9] closed
+Feb 28 10:11 : client: [10] opened from 127.0.0.1:56960
+Feb 28 10:11 : client: [10] closed
+Feb 28 10:11 : client: [11] opened from 127.0.0.1:56964
+Feb 28 10:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 10:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 10:11 : client: [12] opened from 127.0.0.1:56968
+Feb 28 10:11 : client: [12] closed
+Feb 28 10:11 : client: [13] opened from 127.0.0.1:56972
+Feb 28 10:11 : client: [13] closed
+Feb 28 10:11 : client: [14] opened from 127.0.0.1:56976
+Feb 28 10:11 : client: [14] closed
+Feb 28 10:11 : client: [15] opened from 127.0.0.1:56980
+Feb 28 10:11 : client: [15] closed
+Feb 28 10:11 : client: [16] opened from 127.0.0.1:56984
+Feb 28 10:11 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Feb 28 10:11 : client: [16] closed
+Feb 28 10:11 : client: [17] opened from 127.0.0.1:56988
+Feb 28 10:11 : client: [17] closed
+Feb 28 10:11 : client: [0] closed
+Feb 28 10:11 : client: [11] closed
+Feb 28 10:11 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Feb 28 10:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 10:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 10:11 : client: [0] opened from 127.0.0.1:40234
+Feb 28 10:11 : client: [1] opened from 127.0.0.1:40238
+Feb 28 10:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 10:11 : client: [1] closed
+Feb 28 10:11 : client: [2] opened from 127.0.0.1:40242
+Feb 28 10:11 : client: [2] closed
+Feb 28 10:59 : client: [0] closed
+Feb 28 10:59 : client: [3] opened from 127.0.0.1:40524
+Feb 28 11:01 : client: [3] closed
+Feb 28 11:01 : client: [4] opened from 127.0.0.1:40536
+Feb 28 11:03 : client: [4] closed
+Feb 28 11:03 : client: [5] opened from 127.0.0.1:40546
+Feb 28 11:30 : client: [5] closed
+Feb 28 11:30 : client: [6] opened from 127.0.0.1:41240
+Feb 28 11:32 : client: [6] closed
+Feb 28 11:32 : client: [7] opened from 127.0.0.1:41290
+Feb 28 11:35 : client: [7] closed
+Feb 28 11:35 : client: [8] opened from 127.0.0.1:41422
+Feb 28 11:37 : client: [8] closed
+Feb 28 11:37 : client: [9] opened from 127.0.0.1:41428
+Feb 28 11:37 : client: [9] closed
+Feb 28 11:37 : client: [10] opened from 127.0.0.1:41432
+Feb 28 11:37 : client: [10] closed
+Feb 28 11:37 : client: [11] opened from 127.0.0.1:41436
+Feb 28 11:40 : client: [11] closed
+Feb 28 11:40 : client: [12] opened from 127.0.0.1:41524
+Feb 28 11:42 : client: [12] closed
+Feb 28 11:42 : client: [13] opened from 127.0.0.1:41538
+Feb 28 11:42 : client: [13] closed
+Feb 28 11:42 : client: [14] opened from 127.0.0.1:41542
+Feb 28 11:45 : client: [14] closed
+Feb 28 11:45 : client: [15] opened from 127.0.0.1:41548
+Feb 28 11:45 : client: [15] closed
+Feb 28 11:45 : client: [16] opened from 127.0.0.1:41552
+Feb 28 11:48 : client: [17] opened from 127.0.0.1:41662
+Feb 28 11:48 : client: [17] closed
+Feb 28 11:48 : client: [18] opened from 127.0.0.1:41666
+Feb 28 11:48 : client: [18] closed
+Feb 28 12:12 : update: added /Dua Lipa - New Rules (Official Music Video)-k2qgadSvNyU.opus
+Feb 28 12:13 : client: [19] opened from 127.0.0.1:42032
+Feb 28 12:13 : client: [19] closed
+Feb 28 12:13 : client: [20] opened from 127.0.0.1:42036
+Feb 28 12:13 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Feb 28 12:13 : client: [20] closed
+Feb 28 12:13 : client: [21] opened from 127.0.0.1:42040
+Feb 28 12:13 : exception: Not playing
+Feb 28 12:13 : client: [21] closed
+Feb 28 12:13 : client: [22] opened from 127.0.0.1:42044
+Feb 28 12:13 : client: [22] closed
+Feb 28 12:13 : client: [23] opened from 127.0.0.1:42048
+Feb 28 12:13 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Feb 28 12:13 : client: [23] closed
+Feb 28 12:13 : client: [24] opened from 127.0.0.1:42052
+Feb 28 12:13 : client: [24] closed
+Feb 28 12:13 : client: [25] opened from 127.0.0.1:42056
+Feb 28 12:13 : client: [25] closed
+Feb 28 12:13 : client: [26] opened from 127.0.0.1:42060
+Feb 28 12:13 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Feb 28 12:13 : client: [26] closed
+Feb 28 12:13 : client: [27] opened from 127.0.0.1:42064
+Feb 28 12:13 : exception: Not playing
+Feb 28 12:13 : client: [27] closed
+Feb 28 12:13 : client: [28] opened from 127.0.0.1:42068
+Feb 28 12:13 : exception: Not playing
+Feb 28 12:13 : client: [28] closed
+Feb 28 12:13 : client: [29] opened from 127.0.0.1:42072
+Feb 28 12:13 : exception: Not playing
+Feb 28 12:13 : client: [29] closed
+Feb 28 12:13 : client: [30] opened from 127.0.0.1:42076
+Feb 28 12:13 : client: [31] opened from 127.0.0.1:42080
+Feb 28 12:13 : client: [31] closed
+Feb 28 12:14 : client: [32] opened from 127.0.0.1:42084
+Feb 28 12:14 : client: [32] closed
+Feb 28 12:14 : client: [33] opened from 127.0.0.1:42088
+Feb 28 12:14 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Feb 28 12:14 : client: [33] closed
+Feb 28 12:14 : client: [34] opened from 127.0.0.1:42092
+Feb 28 12:14 : exception: Not playing
+Feb 28 12:14 : client: [34] closed
+Feb 28 12:14 : client: [35] opened from 127.0.0.1:42096
+Feb 28 12:14 : client: [35] closed
+Feb 28 12:14 : client: [30] closed
+Feb 28 12:14 : client: [36] opened from 127.0.0.1:42100
+Feb 28 12:14 : client: [36] closed
+Feb 28 12:14 : client: [37] opened from 127.0.0.1:42104
+Feb 28 12:14 : client: [37] closed
+Feb 28 12:14 : client: [38] opened from 127.0.0.1:42108
+Feb 28 12:14 : client: [38] closed
+Feb 28 12:14 : client: [39] opened from 127.0.0.1:42112
+Feb 28 12:14 : client: [39] closed
+Feb 28 12:14 : client: [40] opened from 127.0.0.1:42116
+Feb 28 12:14 : client: [40] closed
+Feb 28 12:14 : client: [41] opened from 127.0.0.1:42120
+Feb 28 12:14 : client: [41] closed
+Feb 28 12:14 : client: [42] opened from 127.0.0.1:42124
+Feb 28 12:14 : client: [42] closed
+Feb 28 12:14 : client: [43] opened from 127.0.0.1:42128
+Feb 28 12:14 : client: [43] closed
+Feb 28 12:14 : client: [44] opened from 127.0.0.1:42132
+Feb 28 12:14 : client: [44] closed
+Feb 28 12:14 : client: [45] opened from 127.0.0.1:42136
+Feb 28 12:14 : client: [45] closed
+Feb 28 12:14 : client: [46] opened from 127.0.0.1:42140
+Feb 28 12:14 : client: [46] closed
+Feb 28 12:14 : client: [47] opened from 127.0.0.1:42144
+Feb 28 12:14 : client: [47] closed
+Feb 28 12:14 : client: [48] opened from 127.0.0.1:42148
+Feb 28 12:14 : client: [48] closed
+Feb 28 12:14 : client: [49] opened from 127.0.0.1:42152
+Feb 28 12:14 : client: [49] closed
+Feb 28 12:14 : client: [50] opened from 127.0.0.1:42156
+Feb 28 12:14 : client: [50] closed
+Feb 28 12:14 : client: [51] opened from 127.0.0.1:42160
+Feb 28 12:14 : client: [51] closed
+Feb 28 12:14 : client: [52] opened from 127.0.0.1:42164
+Feb 28 12:14 : client: [52] closed
+Feb 28 12:14 : client: [53] opened from 127.0.0.1:42168
+Feb 28 12:14 : client: [53] closed
+Feb 28 12:14 : client: [54] opened from 127.0.0.1:42172
+Feb 28 12:14 : client: [54] closed
+Feb 28 12:14 : client: [55] opened from 127.0.0.1:42176
+Feb 28 12:14 : client: [55] closed
+Feb 28 12:14 : client: [56] opened from 127.0.0.1:42180
+Feb 28 12:14 : client: [56] closed
+Feb 28 12:14 : client: [57] opened from 127.0.0.1:42184
+Feb 28 12:14 : client: [57] closed
+Feb 28 12:14 : client: [58] opened from 127.0.0.1:42188
+Feb 28 12:14 : client: [58] closed
+Feb 28 12:14 : client: [59] opened from 127.0.0.1:42192
+Feb 28 12:14 : client: [59] closed
+Feb 28 19:40 : client: [16] closed
+Feb 28 19:40 : player: played "Dua Lipa - New Rules (Official Music Video)-k2qgadSvNyU.opus"
+Feb 28 19:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 19:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 19:40 : client: [0] opened from 127.0.0.1:43078
+Feb 28 19:46 : client: [0] closed
+Feb 28 19:46 : player: played "Dua Lipa - New Rules (Official Music Video)-k2qgadSvNyU.opus"
+Feb 28 19:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 19:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 19:46 : client: [0] opened from 127.0.0.1:58700
+Feb 28 19:50 : client: [0] closed
+Feb 28 19:50 : player: played "Dua Lipa - New Rules (Official Music Video)-k2qgadSvNyU.opus"
+Feb 28 19:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 19:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 19:50 : client: [0] opened from 127.0.0.1:41248
+Feb 28 19:55 : client: [0] closed
+Feb 28 19:55 : player: played "Dua Lipa - New Rules (Official Music Video)-k2qgadSvNyU.opus"
+Feb 28 19:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 19:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 19:55 : client: [0] opened from 127.0.0.1:50168
+Feb 28 20:24 : client: [0] closed
+Feb 28 20:24 : player: played "Dua Lipa - New Rules (Official Music Video)-k2qgadSvNyU.opus"
+Feb 28 20:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 20:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 20:24 : client: [0] opened from 127.0.0.1:47106
+Feb 28 20:31 : client: [0] closed
+Feb 28 20:31 : client: [1] opened from 127.0.0.1:47112
+Feb 28 21:40 : client: [2] opened from 127.0.0.1:47668
+Feb 28 21:40 : client: [2] closed
+Feb 28 21:40 : client: [3] opened from 127.0.0.1:47672
+Feb 28 21:40 : client: [3] closed
+Feb 28 21:40 : client: [4] opened from 127.0.0.1:47676
+Feb 28 21:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 21:40 : client: [4] closed
+Feb 28 21:40 : client: [5] opened from 127.0.0.1:47680
+Feb 28 21:40 : client: [5] closed
+Feb 28 21:40 : client: [6] opened from 127.0.0.1:47684
+Feb 28 21:40 : client: [6] closed
+Feb 28 21:40 : client: [7] opened from 127.0.0.1:47688
+Feb 28 21:40 : client: [7] closed
+Feb 28 21:40 : client: [8] opened from 127.0.0.1:47692
+Feb 28 21:40 : player: played "Dua Lipa - New Rules (Official Music Video)-k2qgadSvNyU.opus"
+Feb 28 21:40 : client: [8] closed
+Feb 28 22:39 : client: [1] closed
+Feb 28 22:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 22:39 : client: [0] opened from 127.0.0.1:48584
+Feb 28 23:00 : client: [1] opened from 127.0.0.1:50508
+Feb 28 23:00 : client: [1] closed
+Feb 28 23:00 : client: [2] opened from 127.0.0.1:50512
+Feb 28 23:00 : client: [2] closed
+Feb 28 23:00 : client: [3] opened from 127.0.0.1:50516
+Feb 28 23:00 : client: [3] closed
+Feb 28 23:00 : client: [4] opened from 127.0.0.1:50520
+Feb 28 23:00 : client: [4] closed
+Feb 28 23:00 : client: [5] opened from 127.0.0.1:50524
+Feb 28 23:00 : client: [5] closed
+Feb 28 23:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 23:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 23:00 : client: [6] opened from 127.0.0.1:50528
+Feb 28 23:00 : client: [6] closed
+Feb 28 23:00 : client: [7] opened from 127.0.0.1:50532
+Feb 28 23:00 : client: [7] closed
+Feb 28 23:00 : client: [8] opened from 127.0.0.1:50536
+Feb 28 23:00 : client: [8] closed
+Feb 28 23:00 : client: [9] opened from 127.0.0.1:50540
+Feb 28 23:00 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Feb 28 23:00 : client: [9] closed
+Feb 28 23:08 : client: [10] opened from 127.0.0.1:50644
+Feb 28 23:08 : client: [10] closed
+Feb 28 23:08 : client: [11] opened from 127.0.0.1:50646
+Feb 28 23:08 : client: [11] closed
+Feb 28 23:08 : client: [12] opened from 127.0.0.1:50648
+Feb 28 23:08 : client: [12] closed
+Feb 28 23:08 : client: [13] opened from 127.0.0.1:50650
+Feb 28 23:08 : client: [13] closed
+Feb 28 23:08 : client: [14] opened from 127.0.0.1:50652
+Feb 28 23:08 : client: [14] closed
+Feb 28 23:08 : client: [15] opened from 127.0.0.1:50654
+Feb 28 23:08 : client: [15] closed
+Feb 28 23:08 : client: [16] opened from 127.0.0.1:50656
+Feb 28 23:08 : client: [16] closed
+Feb 28 23:16 : client: [17] opened from 127.0.0.1:50668
+Feb 28 23:16 : client: [17] closed
+Feb 28 23:17 : client: [18] opened from 127.0.0.1:50672
+Feb 28 23:17 : client: [18] closed
+Feb 28 23:17 : client: [19] opened from 127.0.0.1:50676
+Feb 28 23:17 : client: [19] closed
+Feb 28 23:28 : client: [0] closed
+Feb 28 23:28 : client: [20] opened from 127.0.0.1:50682
+Feb 28 23:30 : client: [20] closed
+Feb 28 23:30 : client: [21] opened from 127.0.0.1:50688
+Feb 28 23:34 : client: [21] closed
+Feb 28 23:34 : client: [22] opened from 127.0.0.1:50698
+Feb 28 23:36 : client: [22] closed
+Feb 28 23:36 : client: [23] opened from 127.0.0.1:50702
+Feb 28 23:38 : client: [23] closed
+Feb 28 23:38 : client: [24] opened from 127.0.0.1:50706
+Feb 28 23:42 : client: [24] closed
+Feb 28 23:42 : client: [25] opened from 127.0.0.1:50726
+Feb 28 23:43 : client: [25] closed
+Feb 28 23:43 : client: [26] opened from 127.0.0.1:50730
+Feb 28 23:48 : client: [26] closed
+Feb 28 23:48 : client: [27] opened from 127.0.0.1:50770
+Feb 28 23:48 : client: [27] closed
+Feb 28 23:48 : client: [28] opened from 127.0.0.1:50774
+Feb 28 23:48 : client: [28] closed
+Feb 28 23:48 : client: [29] opened from 127.0.0.1:50778
+Feb 28 23:48 : client: [29] closed
+Feb 28 23:48 : client: [30] opened from 127.0.0.1:50782
+Feb 28 23:48 : client: [30] closed
+Feb 28 23:48 : client: [31] opened from 127.0.0.1:50786
+Feb 28 23:48 : client: [31] closed
+Feb 28 23:48 : client: [32] opened from 127.0.0.1:50790
+Feb 29 00:21 : client: [32] closed
+Feb 29 00:21 : client: [33] opened from 127.0.0.1:51018
+Feb 29 00:21 : client: [33] closed
+Feb 29 00:21 : client: [34] opened from 127.0.0.1:51022
+Feb 29 00:28 : client: [34] closed
+Feb 29 00:28 : client: [35] opened from 127.0.0.1:51106
+Feb 29 00:28 : client: [35] closed
+Feb 29 00:28 : client: [36] opened from 127.0.0.1:51108
+Feb 29 00:49 : client: [37] opened from 127.0.0.1:51792
+Feb 29 00:49 : client: [37] closed
+Mar 01 10:56 : client: [36] closed
+Mar 01 10:56 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Mar 02 20:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 20:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 20:14 : client: [0] opened from 127.0.0.1:44850
+Mar 02 20:20 : client: [0] closed
+Mar 02 20:20 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Mar 02 20:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 20:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 20:21 : client: [0] opened from 127.0.0.1:57562
+Mar 03 02:42 : client: [1] opened from 127.0.0.1:58718
+Mar 03 02:42 : client: [1] closed
+Mar 03 15:25 : client: [2] opened from 127.0.0.1:58778
+Mar 03 15:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 03 15:25 : client: [2] closed
+Mar 03 15:26 : client: [3] opened from 127.0.0.1:58784
+Mar 03 15:26 : client: [3] closed
+Mar 04 08:31 : client: [4] opened from 127.0.0.1:36700
+Mar 04 08:31 : client: [4] closed
+Mar 04 08:31 : client: [5] opened from 127.0.0.1:36704
+Mar 04 08:31 : client: [5] closed
+Mar 04 09:01 : client: [0] closed
+Mar 04 09:01 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Mar 04 09:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 09:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 09:04 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Mar 04 09:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 09:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 09:13 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Mar 04 09:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 09:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 09:17 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Mar 04 09:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 09:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 09:18 : client: [0] opened from 127.0.0.1:33446
+Mar 04 09:18 : client: [0] closed
+Mar 04 09:18 : client: [1] opened from 127.0.0.1:33450
+Mar 04 09:18 : client: [1] closed
+Mar 04 09:19 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Mar 04 09:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 09:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 09:22 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Mar 04 09:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 09:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 09:23 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Mar 04 09:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 09:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 09:25 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Mar 04 09:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 09:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 09:25 : client: [0] opened from 127.0.0.1:40120
+Mar 04 09:26 : client: [1] opened from 127.0.0.1:40124
+Mar 04 09:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 04 09:26 : client: [1] closed
+Mar 04 09:26 : client: [2] opened from 127.0.0.1:40128
+Mar 04 09:26 : client: [2] closed
+Mar 04 18:58 : client: [0] closed
+Mar 04 18:58 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Mar 10 14:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 10 14:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 10 14:34 : client: [0] opened from 127.0.0.1:59866
+Mar 10 16:00 : client: [0] closed
+Mar 10 16:00 : client: [1] opened from 127.0.0.1:60636
+Mar 11 00:14 : client: [2] opened from 127.0.0.1:34846
+Mar 11 00:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 11 00:14 : client: [2] closed
+Mar 11 00:14 : client: [3] opened from 127.0.0.1:34850
+Mar 11 00:14 : client: [3] closed
+Mar 11 21:41 : client: [4] opened from 127.0.0.1:39420
+Mar 11 21:41 : client: [4] closed
+Mar 15 20:35 : client: [1] closed
+Mar 15 20:36 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Mar 16 20:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 16 20:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 16 20:26 : client: [0] opened from 127.0.0.1:52748
+Mar 17 00:25 : client: [1] opened from 127.0.0.1:53174
+Mar 17 00:25 : client: [1] closed
+Mar 20 21:14 : client: [2] opened from 127.0.0.1:54108
+ALSA lib pcm_dmix.c:1089:(snd_pcm_dmix_open) unable to open slave
+Mar 20 21:14 : exception: Failed to open "alsa for audio soundcard" (alsa)
+Mar 20 21:14 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Mar 20 21:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 20 21:14 : client: [2] closed
+Mar 20 21:14 : client: [3] opened from 127.0.0.1:54112
+Mar 20 21:14 : client: [3] closed
+Mar 20 21:14 : client: [4] opened from 127.0.0.1:54116
+ALSA lib pcm_dmix.c:1089:(snd_pcm_dmix_open) unable to open slave
+Mar 20 21:14 : exception: Failed to open "alsa for audio soundcard" (alsa)
+Mar 20 21:14 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Mar 20 21:14 : client: [4] closed
+Mar 20 21:15 : client: [5] opened from 127.0.0.1:54120
+Mar 20 21:15 : client: [5] closed
+Mar 20 21:15 : client: [6] opened from 127.0.0.1:54126
+Mar 20 21:15 : client: [6] closed
+Mar 20 21:15 : client: [7] opened from 127.0.0.1:54130
+Mar 20 21:15 : client: [7] closed
+Mar 20 21:15 : client: [8] opened from 127.0.0.1:54134
+Mar 20 21:15 : client: [8] closed
+Mar 20 21:15 : client: [9] opened from 127.0.0.1:54138
+Mar 20 21:15 : client: [9] closed
+Mar 20 21:15 : client: [10] opened from 127.0.0.1:54142
+Mar 20 21:15 : client: [10] closed
+Mar 20 21:15 : client: [11] opened from 127.0.0.1:54146
+Mar 20 21:15 : client: [11] closed
+Mar 20 21:15 : client: [12] opened from 127.0.0.1:54152
+Mar 20 21:15 : client: [12] closed
+Mar 20 21:15 : client: [13] opened from 127.0.0.1:54156
+Mar 20 21:15 : client: [13] closed
+Mar 20 21:15 : client: [14] opened from 127.0.0.1:54160
+Mar 20 21:15 : client: [14] closed
+Mar 20 21:17 : client: [15] opened from 127.0.0.1:54172
+Mar 20 21:17 : client: [15] closed
+Mar 20 21:17 : client: [16] opened from 127.0.0.1:54176
+Mar 20 21:17 : client: [16] closed
+Mar 20 21:17 : client: [17] opened from 127.0.0.1:54180
+Mar 20 21:17 : client: [17] closed
+Mar 20 21:17 : client: [18] opened from 127.0.0.1:54184
+Mar 20 21:17 : client: [18] closed
+Mar 20 21:17 : client: [19] opened from 127.0.0.1:54188
+Mar 20 21:17 : client: [19] closed
+Mar 20 21:17 : client: [20] opened from 127.0.0.1:54192
+Mar 20 21:17 : client: [20] closed
+Mar 20 21:17 : client: [21] opened from 127.0.0.1:54196
+Mar 20 21:17 : client: [21] closed
+Mar 20 21:17 : client: [22] opened from 127.0.0.1:54200
+Mar 20 21:17 : client: [22] closed
+Mar 20 21:17 : client: [23] opened from 127.0.0.1:54204
+Mar 20 21:17 : client: [23] closed
+Mar 20 21:17 : client: [24] opened from 127.0.0.1:54208
+Mar 20 21:17 : client: [24] closed
+Mar 20 21:17 : client: [25] opened from 127.0.0.1:54212
+Mar 20 21:17 : client: [25] closed
+Mar 20 21:17 : client: [26] opened from 127.0.0.1:54216
+Mar 20 21:17 : client: [26] closed
+Mar 20 21:20 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Mar 20 21:21 : client: [0] closed
+Mar 20 21:21 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Mar 20 21:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 20 21:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 20 21:30 : client: [0] opened from 127.0.0.1:53444
+Mar 20 21:30 : client: [1] opened from 127.0.0.1:53448
+Mar 20 21:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 20 21:30 : client: [1] closed
+Mar 20 21:30 : client: [2] opened from 127.0.0.1:53450
+Mar 20 21:30 : client: [2] closed
+Mar 20 21:30 : client: [3] opened from 127.0.0.1:53452
+Mar 20 21:30 : client: [3] closed
+Mar 20 21:30 : client: [4] opened from 127.0.0.1:53454
+Mar 20 21:30 : client: [4] closed
+Mar 20 21:39 : client: [5] opened from 127.0.0.1:53758
+Mar 20 21:39 : client: [5] closed
+Mar 20 21:39 : client: [6] opened from 127.0.0.1:53762
+Mar 20 21:39 : client: [6] closed
+Mar 20 21:39 : client: [7] opened from 127.0.0.1:53766
+Mar 20 21:39 : client: [7] closed
+Mar 20 21:39 : client: [8] opened from 127.0.0.1:53770
+Mar 20 21:39 : client: [8] closed
+Mar 20 21:39 : client: [9] opened from 127.0.0.1:53774
+Mar 20 21:39 : client: [9] closed
+Mar 20 21:40 : client: [10] opened from 127.0.0.1:53776
+Mar 20 21:40 : client: [10] closed
+Mar 20 21:40 : client: [11] opened from 127.0.0.1:53778
+Mar 20 21:40 : client: [11] closed
+Mar 20 21:40 : client: [12] opened from 127.0.0.1:53780
+Mar 20 21:40 : client: [12] closed
+Mar 21 00:55 : client: [0] closed
+Mar 21 00:55 : player: played "Dua Lipa - New Rules (Official Music Video)-k2qgadSvNyU.opus"
+Mar 22 13:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 13:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 13:13 : client: [0] opened from 127.0.0.1:35924
+Mar 22 13:22 : client: [1] opened from 127.0.0.1:36170
+Mar 22 13:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 13:22 : client: [1] closed
+Mar 22 13:22 : client: [2] opened from 127.0.0.1:36172
+Mar 22 13:22 : client: [2] closed
+Mar 22 13:23 : client: [0] closed
+Mar 22 13:23 : player: played "Dua Lipa - New Rules (Official Music Video)-k2qgadSvNyU.opus"
+Mar 22 13:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 13:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 13:36 : client: [0] opened from 127.0.0.1:35490
+Mar 22 13:59 : client: [0] closed
+Mar 22 13:59 : player: played "Dua Lipa - New Rules (Official Music Video)-k2qgadSvNyU.opus"
+Mar 22 14:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 14:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 14:35 : client: [0] opened from 127.0.0.1:48892
+Mar 22 14:35 : client: [1] opened from 127.0.0.1:48896
+Mar 22 14:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 14:35 : client: [1] closed
+Mar 22 14:38 : player: played "Dua Lipa - New Rules (Official Music Video)-k2qgadSvNyU.opus"
+Mar 22 14:41 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Mar 22 14:42 : client: [2] opened from 127.0.0.1:49052
+Mar 22 14:42 : client: [2] closed
+Mar 22 14:42 : client: [3] opened from 127.0.0.1:49056
+ALSA lib pcm_dmix.c:1089:(snd_pcm_dmix_open) unable to open slave
+Mar 22 14:42 : exception: Failed to open "alsa for audio soundcard" (alsa)
+Mar 22 14:42 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Mar 22 14:42 : client: [3] closed
+Mar 22 14:42 : client: [4] opened from 127.0.0.1:49062
+Mar 22 14:42 : client: [4] closed
+Mar 22 14:42 : client: [5] opened from 127.0.0.1:49068
+Mar 22 14:42 : client: [5] closed
+Mar 22 14:42 : client: [6] opened from 127.0.0.1:49076
+ALSA lib pcm_dmix.c:1089:(snd_pcm_dmix_open) unable to open slave
+Mar 22 14:42 : exception: Failed to open "alsa for audio soundcard" (alsa)
+Mar 22 14:42 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Mar 22 14:42 : client: [6] closed
+Mar 22 14:44 : client: [7] opened from 127.0.0.1:49120
+Mar 22 14:44 : client: [7] closed
+Mar 22 14:44 : client: [8] opened from 127.0.0.1:49124
+ALSA lib pcm_dmix.c:1089:(snd_pcm_dmix_open) unable to open slave
+Mar 22 14:44 : exception: Failed to open "alsa for audio soundcard" (alsa)
+Mar 22 14:44 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Mar 22 14:44 : client: [8] closed
+Mar 22 14:44 : client: [9] opened from 127.0.0.1:49128
+ALSA lib pcm_dmix.c:1089:(snd_pcm_dmix_open) unable to open slave
+Mar 22 14:44 : exception: Failed to open "alsa for audio soundcard" (alsa)
+Mar 22 14:44 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Mar 22 14:44 : client: [9] closed
+Mar 22 14:44 : client: [10] opened from 127.0.0.1:49132
+ALSA lib pcm_dmix.c:1089:(snd_pcm_dmix_open) unable to open slave
+Mar 22 14:44 : exception: Failed to open "alsa for audio soundcard" (alsa)
+Mar 22 14:44 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Mar 22 14:44 : client: [10] closed
+Mar 22 14:44 : client: [11] opened from 127.0.0.1:49136
+ALSA lib pcm_dmix.c:1089:(snd_pcm_dmix_open) unable to open slave
+Mar 22 14:44 : exception: Failed to open "alsa for audio soundcard" (alsa)
+Mar 22 14:44 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Mar 22 14:44 : client: [11] closed
+Mar 22 14:44 : client: [12] opened from 127.0.0.1:49140
+ALSA lib pcm_dmix.c:1089:(snd_pcm_dmix_open) unable to open slave
+Mar 22 14:44 : exception: Failed to open "alsa for audio soundcard" (alsa)
+Mar 22 14:44 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Mar 22 14:44 : client: [12] closed
+Mar 22 14:44 : client: [13] opened from 127.0.0.1:49144
+ALSA lib pcm_dmix.c:1089:(snd_pcm_dmix_open) unable to open slave
+Mar 22 14:44 : exception: Failed to open "alsa for audio soundcard" (alsa)
+Mar 22 14:44 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Mar 22 14:44 : client: [13] closed
+Mar 22 14:44 : client: [14] opened from 127.0.0.1:49148
+Mar 22 14:44 : client: [14] closed
+Mar 22 14:44 : client: [15] opened from 127.0.0.1:49152
+ALSA lib pcm_dmix.c:1089:(snd_pcm_dmix_open) unable to open slave
+Mar 22 14:44 : exception: Failed to open "alsa for audio soundcard" (alsa)
+Mar 22 14:44 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Mar 22 14:44 : client: [15] closed
+Mar 22 14:47 : client: [0] closed
+Mar 22 14:47 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Mar 22 14:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 14:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 14:47 : client: [0] opened from 127.0.0.1:45798
+Mar 22 14:47 : client: [1] opened from 127.0.0.1:45806
+Mar 22 14:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 14:47 : client: [1] closed
+Mar 22 14:47 : client: [2] opened from 127.0.0.1:45810
+Mar 22 14:47 : client: [2] closed
+Mar 22 14:47 : client: [3] opened from 127.0.0.1:45814
+Mar 22 14:47 : client: [3] closed
+Mar 22 14:47 : client: [4] opened from 127.0.0.1:45818
+Mar 22 14:47 : client: [4] closed
+Mar 22 14:47 : client: [5] opened from 127.0.0.1:45822
+Mar 22 14:47 : client: [5] closed
+Mar 22 14:47 : client: [6] opened from 127.0.0.1:45826
+Mar 22 14:47 : client: [6] closed
+Mar 22 14:48 : client: [7] opened from 127.0.0.1:45946
+Mar 22 14:48 : client: [7] closed
+Mar 22 14:48 : client: [8] opened from 127.0.0.1:45948
+Mar 22 14:48 : client: [8] closed
+Mar 22 14:50 : client: [9] opened from 127.0.0.1:46070
+Mar 22 14:50 : client: [9] closed
+Mar 22 14:50 : client: [10] opened from 127.0.0.1:46074
+Mar 22 14:50 : client: [10] closed
+Mar 22 14:50 : client: [11] opened from 127.0.0.1:46078
+Mar 22 14:50 : client: [11] closed
+Mar 22 14:50 : client: [12] opened from 127.0.0.1:46082
+Mar 22 14:50 : client: [12] closed
+Mar 22 14:52 : client: [0] closed
+Mar 22 14:52 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Mar 22 14:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 14:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 14:52 : client: [0] opened from 127.0.0.1:43550
+Mar 22 14:53 : client: [1] opened from 127.0.0.1:43554
+Mar 22 14:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 14:53 : client: [1] closed
+Mar 22 14:53 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Mar 22 14:53 : client: [2] opened from 127.0.0.1:43654
+Mar 22 14:53 : client: [2] closed
+Mar 22 14:53 : client: [3] opened from 127.0.0.1:43662
+ALSA lib pcm_dmix.c:1089:(snd_pcm_dmix_open) unable to open slave
+Mar 22 14:53 : exception: Failed to open "alsa for audio soundcard" (alsa)
+Mar 22 14:53 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Mar 22 14:53 : client: [3] closed
+Mar 22 14:53 : client: [4] opened from 127.0.0.1:43670
+Mar 22 14:53 : client: [4] closed
+Mar 22 14:54 : client: [5] opened from 127.0.0.1:43714
+ALSA lib pcm_dmix.c:1089:(snd_pcm_dmix_open) unable to open slave
+Mar 22 14:54 : exception: Failed to open "alsa for audio soundcard" (alsa)
+Mar 22 14:54 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Mar 22 14:54 : client: [5] closed
+Mar 22 14:54 : client: [6] opened from 127.0.0.1:43718
+Mar 22 14:54 : client: [6] closed
+Mar 22 14:54 : client: [7] opened from 127.0.0.1:43720
+Mar 22 14:54 : client: [7] closed
+Mar 22 14:54 : client: [8] opened from 127.0.0.1:43722
+Mar 22 14:54 : client: [8] closed
+Mar 22 14:54 : client: [9] opened from 127.0.0.1:43724
+Mar 22 14:54 : client: [9] closed
+Mar 22 14:54 : client: [10] opened from 127.0.0.1:43726
+Mar 22 14:54 : client: [10] closed
+Mar 22 15:03 : client: [0] closed
+Mar 22 15:03 : player: played "Dua Lipa - New Rules (Official Music Video)-k2qgadSvNyU.opus"
+Mar 22 15:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 15:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 15:04 : client: [0] opened from 127.0.0.1:38990
+Mar 22 15:04 : client: [1] opened from 127.0.0.1:38996
+Mar 22 15:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 15:04 : client: [1] closed
+Mar 22 15:05 : client: [2] opened from 127.0.0.1:39134
+Mar 22 15:05 : client: [2] closed
+Mar 22 15:05 : client: [3] opened from 127.0.0.1:39136
+ALSA lib pcm_dmix.c:1089:(snd_pcm_dmix_open) unable to open slave
+Mar 22 15:05 : exception: Failed to open "alsa for audio soundcard" (alsa)
+Mar 22 15:05 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Mar 22 15:05 : client: [3] closed
+Mar 22 15:05 : client: [4] opened from 127.0.0.1:39138
+Mar 22 15:05 : client: [4] closed
+Mar 22 15:05 : client: [5] opened from 127.0.0.1:39140
+ALSA lib pcm_dmix.c:1089:(snd_pcm_dmix_open) unable to open slave
+Mar 22 15:05 : exception: Failed to open "alsa for audio soundcard" (alsa)
+Mar 22 15:05 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Mar 22 15:05 : client: [5] closed
+Mar 22 15:05 : client: [6] opened from 127.0.0.1:39142
+Mar 22 15:05 : client: [6] closed
+Mar 22 15:05 : client: [7] opened from 127.0.0.1:39144
+ALSA lib pcm_dmix.c:1089:(snd_pcm_dmix_open) unable to open slave
+Mar 22 15:05 : exception: Failed to open "alsa for audio soundcard" (alsa)
+Mar 22 15:05 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Mar 22 15:05 : client: [7] closed
+Mar 22 15:05 : client: [8] opened from 127.0.0.1:39146
+Mar 22 15:05 : client: [8] closed
+Mar 22 15:05 : client: [0] closed
+Mar 22 15:05 : player: played "Dua Lipa - New Rules (Official Music Video)-k2qgadSvNyU.opus"
+Mar 22 15:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 15:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 15:06 : client: [0] opened from 127.0.0.1:50548
+Mar 22 15:06 : client: [1] opened from 127.0.0.1:50558
+Mar 22 15:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 15:06 : client: [1] closed
+Mar 22 15:06 : client: [2] opened from 127.0.0.1:50560
+Mar 22 15:06 : client: [2] closed
+Mar 22 15:06 : client: [3] opened from 127.0.0.1:50562
+Mar 22 15:06 : client: [3] closed
+Mar 22 15:06 : client: [4] opened from 127.0.0.1:50564
+Mar 22 15:06 : client: [4] closed
+Mar 22 15:06 : client: [5] opened from 127.0.0.1:50566
+Mar 22 15:06 : client: [5] closed
+Mar 22 15:06 : client: [6] opened from 127.0.0.1:50568
+Mar 22 15:06 : client: [6] closed
+Mar 22 15:09 : client: [0] closed
+Mar 22 15:09 : player: played "Dua Lipa - New Rules (Official Music Video)-k2qgadSvNyU.opus"
+Mar 22 15:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 15:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 15:09 : client: [0] opened from 127.0.0.1:43396
+Mar 22 15:09 : client: [1] opened from 127.0.0.1:43400
+Mar 22 15:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 15:09 : client: [1] closed
+Mar 22 15:10 : client: [2] opened from 127.0.0.1:43516
+Mar 22 15:10 : client: [2] closed
+Mar 22 15:10 : client: [3] opened from 127.0.0.1:43518
+ALSA lib pcm_dmix.c:1089:(snd_pcm_dmix_open) unable to open slave
+Mar 22 15:10 : exception: Failed to open "alsa for audio soundcard" (alsa)
+Mar 22 15:10 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Mar 22 15:10 : client: [3] closed
+Mar 22 15:10 : client: [4] opened from 127.0.0.1:43520
+Mar 22 15:10 : client: [4] closed
+Mar 22 15:12 : client: [5] opened from 127.0.0.1:43686
+Mar 22 15:12 : client: [5] closed
+Mar 22 15:12 : client: [6] opened from 127.0.0.1:43690
+Mar 22 15:12 : client: [6] closed
+Mar 22 15:12 : client: [7] opened from 127.0.0.1:43694
+Mar 22 15:12 : client: [7] closed
+Mar 22 15:12 : client: [8] opened from 127.0.0.1:43698
+Mar 22 15:12 : client: [8] closed
+Mar 22 15:12 : client: [9] opened from 127.0.0.1:43700
+Mar 22 15:12 : client: [9] closed
+Mar 22 15:12 : client: [10] opened from 127.0.0.1:43702
+Mar 22 15:12 : client: [10] closed
+Mar 22 15:12 : client: [11] opened from 127.0.0.1:43704
+Mar 22 15:12 : client: [11] closed
+Mar 22 15:12 : client: [12] opened from 127.0.0.1:43706
+Mar 22 15:12 : client: [12] closed
+Mar 22 15:12 : client: [13] opened from 127.0.0.1:43712
+ALSA lib pcm_dmix.c:1089:(snd_pcm_dmix_open) unable to open slave
+Mar 22 15:12 : exception: Failed to open "alsa for audio soundcard" (alsa)
+Mar 22 15:12 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Mar 22 15:12 : client: [13] closed
+Mar 22 15:12 : client: [14] opened from 127.0.0.1:43714
+ALSA lib pcm_dmix.c:1089:(snd_pcm_dmix_open) unable to open slave
+Mar 22 15:12 : exception: Failed to open "alsa for audio soundcard" (alsa)
+Mar 22 15:12 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Mar 22 15:12 : client: [14] closed
+Mar 22 15:15 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Mar 22 15:15 : client: [15] opened from 127.0.0.1:43738
+Mar 22 15:15 : client: [15] closed
+Mar 22 15:16 : client: [0] closed
+Mar 22 15:16 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Mar 22 15:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 15:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 15:16 : client: [0] opened from 127.0.0.1:34972
+Mar 22 15:17 : client: [1] opened from 127.0.0.1:34980
+Mar 22 15:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 15:17 : client: [1] closed
+Mar 22 15:17 : client: [2] opened from 127.0.0.1:35042
+Mar 22 15:17 : client: [2] closed
+Mar 22 15:17 : client: [3] opened from 127.0.0.1:35046
+ALSA lib pcm_dmix.c:1089:(snd_pcm_dmix_open) unable to open slave
+Mar 22 15:17 : exception: Failed to open "alsa for audio soundcard" (alsa)
+Mar 22 15:17 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Mar 22 15:17 : client: [3] closed
+Mar 22 15:17 : client: [4] opened from 127.0.0.1:35072
+Mar 22 15:17 : client: [4] closed
+Mar 22 15:17 : client: [5] opened from 127.0.0.1:35074
+ALSA lib pcm_dmix.c:1089:(snd_pcm_dmix_open) unable to open slave
+Mar 22 15:17 : exception: Failed to open "alsa for audio soundcard" (alsa)
+Mar 22 15:17 : exception: nested: Failed to open ALSA device "default": Device or resource busy
+Mar 22 15:17 : client: [5] closed
+Mar 22 15:17 : client: [6] opened from 127.0.0.1:35102
+Mar 22 15:17 : client: [6] closed
+Mar 22 15:17 : client: [7] opened from 127.0.0.1:35104
+Mar 22 15:17 : client: [7] closed
+Mar 22 15:17 : client: [8] opened from 127.0.0.1:35106
+Mar 22 15:17 : client: [8] closed
+Mar 22 15:17 : client: [9] opened from 127.0.0.1:35108
+Mar 22 15:17 : client: [9] closed
+Mar 22 15:17 : client: [10] opened from 127.0.0.1:35110
+Mar 22 15:17 : client: [10] closed
+Mar 22 15:17 : client: [11] opened from 127.0.0.1:35112
+Mar 22 15:17 : client: [11] closed
+Mar 22 15:17 : client: [12] opened from 127.0.0.1:35114
+Mar 22 15:17 : client: [12] closed
+Mar 22 15:17 : client: [13] opened from 127.0.0.1:35116
+Mar 22 15:17 : client: [13] closed
+Mar 22 15:17 : client: [14] opened from 127.0.0.1:35118
+Mar 22 15:17 : client: [14] closed
+Mar 22 15:17 : client: [15] opened from 127.0.0.1:35120
+Mar 22 15:17 : client: [15] closed
+Mar 22 15:19 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Mar 22 15:20 : client: [16] opened from 127.0.0.1:35132
+Mar 22 15:20 : client: [16] closed
+Mar 22 15:28 : client: [17] opened from 127.0.0.1:35212
+Mar 22 15:28 : client: [17] closed
+Mar 22 15:28 : client: [18] opened from 127.0.0.1:35214
+Mar 22 15:28 : client: [18] closed
+Mar 22 15:52 : client: [0] closed
+Mar 22 15:52 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Mar 22 18:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 18:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 18:41 : client: [0] opened from 127.0.0.1:50932
+Mar 22 18:44 : client: [0] closed
+Mar 22 18:44 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Mar 23 13:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 13:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 13:53 : client: [0] opened from 127.0.0.1:37202
+Mar 23 14:09 : client: [1] opened from 127.0.0.1:37794
+Mar 23 14:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 14:09 : client: [1] closed
+Mar 23 14:09 : client: [2] opened from 127.0.0.1:37796
+Mar 23 14:09 : client: [2] closed
+Mar 23 14:10 : client: [3] opened from 127.0.0.1:37800
+Mar 23 14:10 : client: [3] closed
+Mar 23 14:34 : client: [0] closed
+Mar 23 14:34 : player: played "Dua Lipa - New Rules (Official Music Video)-k2qgadSvNyU.opus"
+Mar 23 15:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 15:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 15:19 : client: [0] opened from 127.0.0.1:60012
+Mar 23 15:21 : client: [0] closed
+Mar 23 15:21 : player: played "Dua Lipa - New Rules (Official Music Video)-k2qgadSvNyU.opus"
+Mar 23 15:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 15:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 15:32 : client: [0] opened from 127.0.0.1:40552
+Mar 23 19:23 : client: [0] closed
+Mar 23 19:23 : player: played "Dua Lipa - New Rules (Official Music Video)-k2qgadSvNyU.opus"
+Mar 25 13:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 25 13:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 25 13:30 : client: [0] opened from 127.0.0.1:48242
+Mar 25 13:45 : client: [0] closed
+Mar 25 13:45 : player: played "Dua Lipa - New Rules (Official Music Video)-k2qgadSvNyU.opus"
+Mar 25 13:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 25 13:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 25 13:45 : client: [0] opened from 127.0.0.1:51000
+Mar 25 13:52 : client: [0] closed
+Mar 25 13:52 : player: played "Dua Lipa - New Rules (Official Music Video)-k2qgadSvNyU.opus"
+Mar 25 13:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 25 13:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 25 13:52 : client: [0] opened from 127.0.0.1:49426
+Mar 25 15:38 : client: [0] closed
+Mar 25 15:38 : player: played "Dua Lipa - New Rules (Official Music Video)-k2qgadSvNyU.opus"
+Mar 25 17:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 25 17:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 25 17:04 : client: [0] opened from 127.0.0.1:59538
+Mar 25 18:46 : client: [0] closed
+Mar 25 18:46 : player: played "Dua Lipa - New Rules (Official Music Video)-k2qgadSvNyU.opus"
+Mar 25 18:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 25 18:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 25 18:46 : client: [0] opened from 127.0.0.1:49858
+Mar 25 21:39 : client: [1] opened from 127.0.0.1:51034
+Mar 25 21:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 25 21:39 : client: [1] closed
+Mar 25 21:39 : client: [2] opened from 127.0.0.1:51036
+Mar 25 21:39 : client: [2] closed
+Mar 26 03:54 : client: [0] closed
+Mar 26 03:54 : player: played "Dua Lipa - New Rules (Official Music Video)-k2qgadSvNyU.opus"
+Mar 26 19:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 26 19:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 26 19:47 : client: [0] opened from 127.0.0.1:33124
+Mar 26 20:58 : client: [0] closed
+Mar 26 20:58 : client: [1] opened from 127.0.0.1:33600
+Mar 26 20:59 : client: [1] closed
+Mar 26 20:59 : client: [2] opened from 127.0.0.1:33604
+Mar 26 21:01 : client: [2] closed
+Mar 26 21:01 : client: [3] opened from 127.0.0.1:33612
+Mar 26 21:05 : client: [3] closed
+Mar 26 21:06 : client: [4] opened from 127.0.0.1:33652
+Mar 26 21:10 : client: [4] closed
+Mar 26 21:11 : client: [5] opened from 127.0.0.1:33688
+Mar 26 21:17 : client: [5] closed
+Mar 26 21:18 : client: [6] opened from 127.0.0.1:33750
+Mar 26 21:19 : client: [6] closed
+Mar 26 21:19 : client: [7] opened from 127.0.0.1:33756
+Mar 26 21:19 : client: [7] closed
+Mar 26 21:22 : client: [8] opened from 127.0.0.1:33766
+Mar 26 21:22 : client: [8] closed
+Mar 26 21:22 : client: [9] opened from 127.0.0.1:33772
+Mar 26 21:22 : client: [9] closed
+Mar 26 21:24 : client: [10] opened from 127.0.0.1:33778
+Mar 26 21:26 : client: [11] opened from 127.0.0.1:33788
+Mar 26 21:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 26 21:26 : client: [11] closed
+Mar 26 21:26 : client: [12] opened from 127.0.0.1:33792
+Mar 26 21:26 : client: [12] closed
+Mar 26 21:56 : client: [10] closed
+Mar 26 21:56 : client: [13] opened from 127.0.0.1:33944
+Mar 26 22:02 : client: [13] closed
+Mar 26 22:02 : client: [14] opened from 127.0.0.1:33998
+Mar 26 22:06 : client: [14] closed
+Mar 26 22:06 : client: [15] opened from 127.0.0.1:34016
+Mar 26 22:06 : client: [15] closed
+Mar 26 22:06 : client: [16] opened from 127.0.0.1:34020
+Mar 26 22:15 : client: [16] closed
+Mar 26 22:15 : client: [17] opened from 127.0.0.1:34054
+Mar 26 22:29 : client: [17] closed
+Mar 26 22:29 : client: [18] opened from 127.0.0.1:34170
+Mar 26 22:32 : client: [18] closed
+Mar 26 22:32 : client: [19] opened from 127.0.0.1:34186
+Mar 26 22:37 : client: [19] closed
+Mar 26 22:37 : client: [20] opened from 127.0.0.1:34228
+Mar 26 22:38 : client: [20] closed
+Mar 26 22:38 : client: [21] opened from 127.0.0.1:34236
+Mar 26 22:39 : client: [21] closed
+Mar 26 22:39 : client: [22] opened from 127.0.0.1:34244
+Mar 26 22:39 : client: [22] closed
+Mar 26 22:39 : client: [23] opened from 127.0.0.1:34248
+Mar 26 22:40 : client: [23] closed
+Mar 26 22:40 : client: [24] opened from 127.0.0.1:34252
+Mar 26 22:40 : client: [24] closed
+Mar 26 22:40 : client: [25] opened from 127.0.0.1:34256
+Mar 26 22:40 : client: [25] closed
+Mar 26 22:40 : client: [26] opened from 127.0.0.1:34260
+Mar 26 22:41 : client: [26] closed
+Mar 26 22:41 : client: [27] opened from 127.0.0.1:34264
+Mar 26 22:43 : client: [27] closed
+Mar 26 22:43 : client: [28] opened from 127.0.0.1:34280
+Mar 26 22:59 : client: [28] closed
+Mar 26 22:59 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Mar 26 23:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 26 23:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 26 23:00 : client: [0] opened from 127.0.0.1:33790
+Mar 26 23:02 : client: [1] opened from 127.0.0.1:33796
+Mar 26 23:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 26 23:02 : client: [1] closed
+Mar 26 23:02 : client: [2] opened from 127.0.0.1:33798
+Mar 26 23:02 : client: [2] closed
+Mar 26 23:06 : client: [0] closed
+Mar 26 23:06 : client: [3] opened from 127.0.0.1:33964
+Mar 26 23:07 : client: [3] closed
+Mar 26 23:07 : client: [4] opened from 127.0.0.1:33976
+Mar 26 23:25 : client: [4] closed
+Mar 26 23:25 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Mar 28 18:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 28 18:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 28 18:52 : client: [0] opened from 127.0.0.1:36350
+Mar 28 23:56 : client: [1] opened from 127.0.0.1:38486
+Mar 28 23:56 : client: [1] closed
+Mar 29 16:01 : client: [0] closed
+Mar 29 16:01 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Mar 30 20:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 30 20:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 30 20:00 : client: [0] opened from 127.0.0.1:59674
+Mar 30 18:12 : client: [0] closed
+Mar 30 18:13 : player: played "Dua Lipa - Don't Start Now (Official Music Video)-oygrmJFKYZY.opus"
+Mar 30 20:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 30 20:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 30 20:13 : client: [0] opened from 127.0.0.1:38122
+Mar 30 20:14 : client: [1] opened from 127.0.0.1:38202
+Mar 30 20:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 30 20:14 : client: [1] closed
+Mar 30 20:14 : client: [2] opened from 127.0.0.1:38204
+Mar 30 20:14 : client: [2] closed
+Mar 30 20:14 : client: [3] opened from 127.0.0.1:38210
+Mar 30 20:14 : client: [3] closed
+Mar 30 20:14 : client: [4] opened from 127.0.0.1:38250
+Mar 30 20:14 : client: [4] closed
+Mar 30 20:14 : client: [5] opened from 127.0.0.1:38266
+Mar 30 20:14 : client: [5] closed
+Mar 30 20:14 : client: [6] opened from 127.0.0.1:38270
+Mar 30 20:14 : client: [6] closed
+Mar 30 20:14 : client: [7] opened from 127.0.0.1:38278
+Mar 30 20:14 : client: [7] closed
+Mar 30 20:14 : client: [8] opened from 127.0.0.1:38284
+Mar 30 20:14 : client: [8] closed
+Mar 30 20:15 : client: [9] opened from 127.0.0.1:38298
+Mar 30 20:15 : client: [9] closed
+Mar 30 18:18 : client: [0] closed
+Mar 30 18:19 : player: played "Dua Lipa - New Rules (Official Music Video)-k2qgadSvNyU.opus"
+Mar 30 20:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 30 20:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 30 20:24 : client: [0] opened from 127.0.0.1:60820
+Mar 30 18:25 : client: [0] closed
+Mar 30 18:30 : client: [1] opened from 127.0.0.1:32776
+Apr 02 00:16 : client: [2] opened from 127.0.0.1:51078
+Apr 02 00:16 : client: [2] closed
+Apr 02 23:53 : client: [3] opened from 127.0.0.1:51970
+Apr 02 23:53 : client: [3] closed
+Apr 04 20:28 : client: [1] closed
+Apr 04 20:28 : player: played "Dua Lipa - New Rules (Official Music Video)-k2qgadSvNyU.opus"
+Apr 04 21:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 04 21:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 04 21:30 : client: [0] opened from 127.0.0.1:36686
+Apr 05 00:24 : client: [1] opened from 127.0.0.1:38106
+Apr 05 00:24 : client: [1] closed
+Apr 05 19:40 : client: [0] closed
+Apr 05 19:40 : player: played "Dua Lipa - New Rules (Official Music Video)-k2qgadSvNyU.opus"
+Apr 05 21:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 05 21:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 05 21:22 : client: [0] opened from 127.0.0.1:34758
+Apr 06 09:31 : client: [1] opened from 127.0.0.1:38914
+Apr 06 09:31 : client: [1] closed
+Apr 06 16:08 : client: [0] closed
+Apr 06 16:08 : player: played "Dua Lipa - New Rules (Official Music Video)-k2qgadSvNyU.opus"
+Apr 07 13:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 07 13:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 07 13:32 : client: [0] opened from 127.0.0.1:45726
+Apr 07 13:42 : client: [0] closed
+Apr 07 13:46 : client: [1] opened from 127.0.0.1:46214
+Apr 07 13:47 : client: [1] closed
+Apr 07 13:49 : client: [2] opened from 127.0.0.1:46252
+Apr 07 17:20 : client: [2] closed
+Apr 07 17:20 : player: played "Dua Lipa - New Rules (Official Music Video)-k2qgadSvNyU.opus"
+Apr 07 18:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 07 18:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 07 18:21 : client: [0] opened from 127.0.0.1:33240
+Apr 07 18:26 : client: [0] closed
+Apr 07 18:32 : client: [1] opened from 127.0.0.1:33530
+Apr 07 18:33 : client: [1] closed
+Apr 07 18:33 : client: [2] opened from 127.0.0.1:33534
+Apr 07 18:37 : client: [2] closed
+Apr 07 18:37 : client: [3] opened from 127.0.0.1:33606
+Apr 07 18:44 : client: [3] closed
+Apr 07 18:44 : client: [4] opened from 127.0.0.1:33674
+Apr 07 18:44 : client: [4] closed
+Apr 07 18:44 : client: [5] opened from 127.0.0.1:33678
+Apr 07 18:46 : client: [5] closed
+Apr 07 18:46 : client: [6] opened from 127.0.0.1:33690

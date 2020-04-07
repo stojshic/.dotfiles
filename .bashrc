@@ -5,6 +5,7 @@
 # |____/ |_|
 #
 # My bash config. Not much to see here.  Some pretty standard stuff.
+# And this is the test line
 
 EDITOR="emacsclient -c"
 export TERM="xterm-256color"

@@ -36,3 +36,7 @@ alias ex="extract"
 # Git aliases
 alias dotfiles='/usr/bin/git --git-dir=/home/stojshic/.dotfiles/ --work-tree=/home/stojshic'
 alias dotapp='/usr/bin/git --git-dir=/home/stojshic/Apps/myApps/.git/ --work-tree=/home/stojshic/Apps/myApps'
+
+# SSH Agent
+fish_ssh_agent
+

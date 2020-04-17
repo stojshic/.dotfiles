@@ -2,6 +2,19 @@
 # wm independent hotkeys
 #
 
+# Shut Down / Reboot PC
+super + x
+    powermenu
+
+# Emoji launcher
+super + e
+    emoji.sh
+
+# Rofi launcher
+super + d 
+    rofi -show drun -theme /themes/distrotube.rasi -location 0 -xoffset 0 -yoffset 0 -width 350
+#    rofi -theme themes/distrotube.rasi -show drun
+
 # terminal emulator
 super + Return
 	alacritty

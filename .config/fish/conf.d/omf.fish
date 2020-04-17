@@ -6,11 +6,11 @@ set -q XDG_DATA_HOME
 # Load Oh My Fish configuration.
 source $OMF_PATH/init.fish
 set theme_color_scheme gruvbox
-set -x EDITOR "nvim"
+set -x EDITOR nvim
 set -x TERMINAL alacritty
 
 # replace vifm vifmrun
-alias vifm='vifmrun'
+alias vifm='~/.config/vifm/scripts/vifmrun'
 
 # dotfile git alias
 alias config='/usr/bin/git --git-dir=/home/stojshic/dotfiles --work-tree=/home/stojshic'
@@ -37,6 +37,4 @@ alias ex="extract"
 alias dotfiles='/usr/bin/git --git-dir=/home/stojshic/.dotfiles/ --work-tree=/home/stojshic'
 alias dotapp='/usr/bin/git --git-dir=/home/stojshic/Apps/myApps/.git/ --work-tree=/home/stojshic/Apps/myApps'
 
-# SSH Agent
 fish_ssh_agent
-

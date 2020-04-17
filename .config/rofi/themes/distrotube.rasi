@@ -41,7 +41,6 @@
     border-color: @bordercolor;
     border:           1;
     padding:          5;
-    location:    center;
 }
 #mainbox {
     border:  0;

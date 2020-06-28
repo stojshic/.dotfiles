@@ -12,9 +12,6 @@ set -x TERMINAL alacritty
 # replace vifm vifmrun
 alias vifm='~/.config/vifm/scripts/vifmrun'
 
-# dotfile git alias
-alias config='/usr/bin/git --git-dir=/home/stojshic/dotfiles --work-tree=/home/stojshic'
-
 # Changing "ls" to "exa"
 alias ls='exa -al --color=always --group-directories-first' # my preferred listing
 alias la='exa -a --color=always --group-directories-first'  # all files and dirs
@@ -35,6 +32,5 @@ alias ex="extract"
 
 # Git aliases
 alias dotfiles='/usr/bin/git --git-dir=/home/stojshic/.dotfiles/ --work-tree=/home/stojshic'
-alias dotapp='/usr/bin/git --git-dir=/home/stojshic/Apps/myApps/.git/ --work-tree=/home/stojshic/Apps/myApps'
 
 #fish_ssh_agent

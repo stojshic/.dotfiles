@@ -12,6 +12,7 @@ call plug#begin()
 " my plugins here 
 " ===================
 Plug 'itchyny/lightline.vim'
+Plug 'vimwiki/vimwiki'
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
 Plug 'tiagofumo/vim-nerdtree-syntax-highlight', { 'on':  'NERDTreeToggle' }
 Plug 'vim-python/python-syntax'

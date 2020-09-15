@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Don't display system drives
-USB="sda\|sdb\|sdc"
+USB="sda\|sdb"
 
 usbcheck(){ \
     mounteddrives="$(lsblk -rpo "name,type,size,mountpoint" | grep -v $USB | awk '$2=="part"&&$4!=""{printf "%s (%s)\t  ",$1,$3}')"

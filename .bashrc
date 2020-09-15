@@ -6,6 +6,8 @@ case $- in
     *) return;;
 esac
 
+export LIBRARY_PATH=/usr/local/lib
+
 # Path to the bash it configuration
 export BASH_IT="/home/stojshic/.bash_it"
 
